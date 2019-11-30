@@ -1,0 +1,32 @@
+{
+  "message": "Hola !!",
+  "login": {
+    "title": "Empezar !!",
+    "login_btn": "iniciar sesión",
+    "logout_btn": "cerrar sesión",
+    "username": "Nombre de usuario",
+    "password": "Contraseña",
+    "error1": "Nombre de usuario o contraseña no son válidos",
+    "error2": "o verifica tu conexión",
+    "user_card": {
+      "profile": "Perfil",
+      "account": "Cuenta"
+    }
+  },
+  "nav": {
+    "home": "casa",
+    "about": "sobre nosotros",
+    "web_site": "sitio web",
+    "admin_panel": "Panel de administrador"
+  },
+  "drawer": {
+    "users": "Los usuarios",
+    "tours": "Recorridos",
+    "setting": "Ajustes"
+  },
+  "users": {
+    "connecting": "Conexión al punto final",
+    "get_data": "Obteniendo datos",
+    "connecting_error": "Error al conectarse al punto final"
+  }
+}

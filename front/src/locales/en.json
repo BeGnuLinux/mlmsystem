@@ -1,0 +1,37 @@
+{
+  "message": "Hello !!",
+  "login": {
+    "title": "Get Started !!",
+    "login_btn": "Login",
+    "logout_btn": "Logout",
+    "username": "User Name",
+    "password": "Password",
+    "error1": "Username or Password are invalid",
+    "error2": "or check your connection",
+    "user_card": {
+      "profile": "Profile",
+      "account": "Account"
+    }
+  },
+  "nav": {
+    "home": "Home",
+    "about": "About Us",
+    "web_site": "WebSite",
+    "admin_panel": "Admin Panel"
+  },
+  "drawer": {
+    "users": "Users",
+    "tours": "Tours",
+    "setting": "Setting"
+  },
+  "users": {
+    "connecting": "Connecting to end point",
+    "get_data": "Getting data",
+    "connecting_error": "Error connectin to end point",
+    "table": {
+      "username": "User Name",
+      "first_name": "First Name",
+      "last_name": "Last Nameeee"
+    }
+  }
+}
